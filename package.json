@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "async": "^2.4.1",
+    "axios": "^0.16.2",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "moment": "^2.18.1"
+  },
+  "name": "allInOne",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ayat Maulana",
+  "license": "MIT"
+}
